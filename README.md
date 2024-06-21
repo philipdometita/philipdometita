@@ -1,5 +1,5 @@
 I'm Philip Dometita. I'm a computer science graduate from the University of Calgary. I'm interested in and learning web, UI, and mobile developement.
-You can reach me at philip.dometita@alumni.ucalgary.ca
+You can reach me at philadometita@gmail.com
 
 <!---
 philipdometita/philipdometita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
